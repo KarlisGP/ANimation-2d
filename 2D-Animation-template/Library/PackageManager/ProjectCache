@@ -1,33 +1,157 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/Karlis/Documents/Github repositeries/ANimation-2d/2D-Animation-template/Packages/manifest.json
+    m_FilePath: C:/Users/laura/Projects/GitHub/ANimation-2d/2D-Animation-template/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639093604147255079
-    m_Hash: 2512151840
+      ticks: 639099542201439032
+    m_Hash: 3353031265
   m_LockFileStatus:
-    m_FilePath: C:/Users/Karlis/Documents/Github repositeries/ANimation-2d/2D-Animation-template/Packages/packages-lock.json
+    m_FilePath: C:/Users/laura/Projects/GitHub/ANimation-2d/2D-Animation-template/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639093604147255079
-    m_Hash: 386254999
+      ticks: 639099542201612882
+    m_Hash: 3237684008
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Users/Karlis/Documents/Github repositeries/ANimation-2d/2D-Animation-template/Packages
-m_EditorVersion: 6000.3.8f1 (1c7db571dde0)
+m_ProjectPath: C:/Users/laura/Projects/GitHub/ANimation-2d/2D-Animation-template/Packages
+m_EditorVersion: 6000.3.9f1 (7a9955a4f2fa)
 m_ResolvedPackages:
+- packageId: com.unity.2d.pixel-perfect@5.1.1
+  testable: 0
+  isDirectDependency: 1
+  version: 5.1.1
+  source: 1
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.2d.pixel-perfect@09d99455b901
+  assetPath: Packages/com.unity.2d.pixel-perfect
+  name: com.unity.2d.pixel-perfect
+  displayName: 2D Pixel Perfect
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: 'The 2D Pixel Perfect package contains the Pixel Perfect Camera component
+    which ensures your pixel art remains crisp and clear at different resolutions,
+    and stable in motion.
+
+
+    It is a single component that makes all the calculations
+    needed to scale the viewport with resolution changes, removing the hassle from
+    the user. The user can adjust the definition of the pixel art rendered within
+    the camera viewport through the component settings, as well preview any changes
+    immediately in Game view by using the Run in Edit Mode feature.'
+  errors: []
+  versions:
+    all:
+    - 1.0.0-preview
+    - 1.0.1-preview
+    - 2.0.2
+    - 2.0.3
+    - 2.0.4
+    - 2.1.0
+    - 3.0.0
+    - 3.0.1
+    - 3.0.2
+    - 4.0.0
+    - 4.0.1
+    - 5.0.0-pre.1
+    - 5.0.0-pre.2
+    - 5.0.0
+    - 5.0.1
+    - 5.0.2
+    - 5.0.3
+    - 5.1.0
+    - 5.1.1
+    - 6.0.0
+    compatible:
+    - 5.1.1
+    recommended: 5.1.1
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  keywords:
+  - pixel
+  - perfect
+  - 2D
+  - sprite
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638932756194190000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.pixel-perfect@5.1/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/2d.git
+    revision: 9ead9de91ee9fdb290bfcc223d793a449e7f8370
+    path: 
+  unityLifecycle:
+    version: 5.1.1
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 1
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Changed\n- Update minimum Unity version to 2021.3\n\n###
+    Fixed\n- Update usage of URP namespace.\n- Fixed package dependencies."}'
+  signature:
+    status: 1
+    reason: Signature is ok
+    attestation:
+      format: archive
+      publishingChannel: unity
+      entitlementKeys: []
+      ownerOrgName: 
+      ownerOrgId: 
+      publisherName: 
+    errorCode: 
+  assetStore:
+    productId: 
+  fingerprint: 09d99455b9018d7a152bb766d42b2569236a7b4a
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 5.1.1
+    minimumUnityVersion: 2021.3
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
 - packageId: com.unity.2d.sprite@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.2d.sprite@08e067ec1643
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.2d.sprite@d14b9d497a24
   assetPath: Packages/com.unity.2d.sprite
   name: com.unity.2d.sprite
   displayName: 2D Sprite
@@ -102,7 +226,7 @@ m_ResolvedPackages:
     errorCode: 
   assetStore:
     productId: 
-  fingerprint: 08e067ec16439baf6179e7b573789fe56478f7e0
+  fingerprint: d14b9d497a24d5fc6a731faaacfb216ac084478e
   editorCompatibility:
     compatibilityLevel: 0
     minimumPackageVersion: 1.0.0
@@ -118,7 +242,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.2d.tilemap@2394479dc113
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.2d.tilemap@f011712243ad
   assetPath: Packages/com.unity.2d.tilemap
   name: com.unity.2d.tilemap
   displayName: 2D Tilemap Editor
@@ -212,7 +336,7 @@ m_ResolvedPackages:
     errorCode: 
   assetStore:
     productId: 
-  fingerprint: 2394479dc113a2fb5870334479f2547950908691
+  fingerprint: f011712243ad7f5bf96d635e094957cd487ac228
   editorCompatibility:
     compatibilityLevel: 0
     minimumPackageVersion: 1.0.0
@@ -228,7 +352,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.10
   source: 1
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.ai.navigation@c33a115e9883
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.ai.navigation@c33a115e9883
   assetPath: Packages/com.unity.ai.navigation
   name: com.unity.ai.navigation
   displayName: AI Navigation
@@ -269,10 +393,12 @@ m_ResolvedPackages:
     - 2.0.9
     - 2.0.10
     - 2.0.11
+    - 2.0.12
     compatible:
     - 2.0.10
     - 2.0.11
-    recommended: 2.0.11
+    - 2.0.12
+    recommended: 2.0.12
     deprecated: []
   dependencies:
   - name: com.unity.modules.ai
@@ -366,7 +492,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.8.2
   source: 1
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.analytics@c9d14a6bdec6
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.analytics@c9d14a6bdec6
   assetPath: Packages/com.unity.analytics
   name: com.unity.analytics
   displayName: Analytics Library
@@ -511,12 +637,246 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
+- packageId: com.unity.cinemachine@3.1.6
+  testable: 0
+  isDirectDependency: 1
+  version: 3.1.6
+  source: 1
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.cinemachine@285f38545487
+  assetPath: Packages/com.unity.cinemachine
+  name: com.unity.cinemachine
+  displayName: Cinemachine
+  author:
+    name: 
+    email: 
+    url: 
+  category: cinematography
+  type: 
+  description: "Smart camera tools for passionate creators. \n\nCinemachine 3 is
+    a newer and better version of Cinemachine, but upgrading an existing project
+    from 2.X will likely require some effort.  If you're considering upgrading an
+    older project, please see our upgrade guide in the user manual."
+  errors: []
+  versions:
+    all:
+    - 2.1.11-beta.1
+    - 2.1.12
+    - 2.1.13
+    - 2.2.0
+    - 2.2.7
+    - 2.2.8
+    - 2.2.9
+    - 2.2.10-preview.3
+    - 2.2.10-preview.4
+    - 2.3.1
+    - 2.3.3
+    - 2.3.4
+    - 2.3.5-preview.3
+    - 2.4.0-preview.3
+    - 2.4.0-preview.4
+    - 2.4.0-preview.6
+    - 2.4.0-preview.7
+    - 2.4.0-preview.8
+    - 2.4.0-preview.9
+    - 2.4.0-preview.10
+    - 2.4.0
+    - 2.5.0
+    - 2.6.0-preview.2
+    - 2.6.0-preview.3
+    - 2.6.0-preview.5
+    - 2.6.0-preview.8
+    - 2.6.0
+    - 2.6.1-preview.6
+    - 2.6.1
+    - 2.6.2-preview.1
+    - 2.6.2
+    - 2.6.3-preview.2
+    - 2.6.3
+    - 2.6.4
+    - 2.6.5
+    - 2.6.9
+    - 2.6.10
+    - 2.6.11
+    - 2.6.14
+    - 2.6.15
+    - 2.6.17
+    - 2.7.1
+    - 2.7.2
+    - 2.7.3
+    - 2.7.4
+    - 2.7.5
+    - 2.7.8
+    - 2.7.9
+    - 2.8.0-exp.1
+    - 2.8.0-exp.2
+    - 2.8.0-pre.1
+    - 2.8.0
+    - 2.8.1
+    - 2.8.2
+    - 2.8.3
+    - 2.8.4
+    - 2.8.6
+    - 2.8.9
+    - 2.9.0-pre.1
+    - 2.9.0-pre.6
+    - 2.9.1
+    - 2.9.2
+    - 2.9.4
+    - 2.9.5
+    - 2.9.7
+    - 2.10.0
+    - 2.10.1
+    - 2.10.2
+    - 2.10.3
+    - 2.10.4
+    - 2.10.5
+    - 2.10.6
+    - 2.10.7
+    - 3.0.0-pre.3
+    - 3.0.0-pre.4
+    - 3.0.0-pre.5
+    - 3.0.0-pre.6
+    - 3.0.0-pre.7
+    - 3.0.0-pre.8
+    - 3.0.0-pre.9
+    - 3.0.1
+    - 3.1.0
+    - 3.1.1
+    - 3.1.2
+    - 3.1.3
+    - 3.1.4
+    - 3.1.5
+    - 3.1.6
+    compatible:
+    - 2.10.5
+    - 2.10.6
+    - 2.10.7
+    - 3.0.0-pre.3
+    - 3.0.0-pre.4
+    - 3.0.0-pre.5
+    - 3.0.0-pre.6
+    - 3.0.0-pre.7
+    - 3.0.0-pre.8
+    - 3.0.0-pre.9
+    - 3.0.1
+    - 3.1.0
+    - 3.1.1
+    - 3.1.2
+    - 3.1.3
+    - 3.1.4
+    - 3.1.5
+    - 3.1.6
+    recommended: 3.1.6
+    deprecated: []
+  dependencies:
+  - name: com.unity.splines
+    version: 2.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.splines
+    version: 2.8.2
+  - name: com.unity.mathematics
+    version: 1.3.3
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.settings-manager
+    version: 2.1.1
+  keywords:
+  - camera
+  - follow
+  - rig
+  - fps
+  - cinematography
+  - aim
+  - orbit
+  - cutscene
+  - cinematic
+  - collision
+  - freelook
+  - cinemachine
+  - compose
+  - composition
+  - dolly
+  - track
+  - clearshot
+  - noise
+  - framing
+  - handheld
+  - lens
+  - impulse
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 639076318093840000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.cinemachine@3.1/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.cinemachine.git
+    revision: 293f7764a9c6e9f087fad05023a586dcfdc1939b
+    path: 
+  unityLifecycle:
+    version: 2.10.5
+    nextVersion: 
+    recommendedVersion: 3.1.0
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 1
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Bugfixes\n- Fixed look at being ignored in third
+    person camera when camera is navel gazing.\n- Fixed error when both HDRP and
+    URP rendering pipelines are added to a project.\\\n- Fixed outdated warning on
+    RotationComposerComponent.\n- Fixed GC Alloc in CinemachineInputAxisController.Update().\n-
+    Fixed ForceCameraPosition regression in CinemachineFollow/CinemachineOrbitalFollow/CinemachineTransposer/CinemachineOrbitalTransposer
+    to allow looking away from targets.\n\n### Changed\n- Converted code using InstanceID
+    references and API to EntityID."}'
+  signature:
+    status: 1
+    reason: Signature is ok
+    attestation:
+      format: archive
+      publishingChannel: unity
+      entitlementKeys: []
+      ownerOrgName: 
+      ownerOrgId: 
+      publisherName: 
+    errorCode: 
+  assetStore:
+    productId: 
+  fingerprint: 285f385454873b7d4509f804a9b4c840e834066a
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 2.10.5
+    minimumUnityVersion: 2022.3
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
 - packageId: com.unity.collab-proxy@2.11.3
   testable: 0
   isDirectDependency: 1
   version: 2.11.3
   source: 1
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.collab-proxy@e566cd3e7623
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.collab-proxy@e566cd3e7623
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Unity Version Control
@@ -712,7 +1072,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.39
   source: 1
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.ide.rider@4504839d03f7
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.ide.rider@4504839d03f7
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -855,7 +1215,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.1
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.multiplayer.center@f01f4ba8d00a
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.multiplayer.center@f01f4ba8d00a
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -962,7 +1322,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 4.14.2
   source: 1
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.purchasing@039fd41c6e81
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.purchasing@039fd41c6e81
   assetPath: Packages/com.unity.purchasing
   name: com.unity.purchasing
   displayName: In App Purchasing
@@ -1210,7 +1570,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.6.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.test-framework@0b7a23ab2e1d
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.test-framework@0b7a23ab2e1d
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1311,7 +1671,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.8.10
   source: 1
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.timeline@7f8b2fb101b6
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.timeline@7f8b2fb101b6
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1417,10 +1777,12 @@ m_ResolvedPackages:
     - 1.8.9
     - 1.8.10
     - 1.8.11
+    - 1.8.12
     compatible:
     - 1.8.10
     - 1.8.11
-    recommended: 1.8.11
+    - 1.8.12
+    recommended: 1.8.12
     deprecated: []
   dependencies:
   - name: com.unity.modules.audio
@@ -1514,7 +1876,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.ugui@bb329a87fcdc
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.ugui@bb329a87fcdc
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: uGUI
@@ -1621,7 +1983,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.1.13
   source: 1
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.xr.legacyinputhelpers@9535ff2c27ac
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.xr.legacyinputhelpers@9535ff2c27ac
   assetPath: Packages/com.unity.xr.legacyinputhelpers
   name: com.unity.xr.legacyinputhelpers
   displayName: XR Legacy Input Helpers
@@ -1765,7 +2127,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.accessibility
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.accessibility
   assetPath: Packages/com.unity.modules.accessibility
   name: com.unity.modules.accessibility
   displayName: Accessibility
@@ -1853,7 +2215,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.adaptiveperformance
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.adaptiveperformance
   assetPath: Packages/com.unity.modules.adaptiveperformance
   name: com.unity.modules.adaptiveperformance
   displayName: Adaptive Performance
@@ -1947,7 +2309,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.ai
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.ai
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -2035,7 +2397,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.androidjni
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.androidjni
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -2122,7 +2484,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.animation
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.animation
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -2210,7 +2572,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.assetbundle
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.assetbundle
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -2298,7 +2660,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.audio
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.audio
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -2386,7 +2748,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.cloth
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.cloth
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -2478,7 +2840,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.director
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.director
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -2574,7 +2936,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.imageconversion
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.imageconversion
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -2662,7 +3024,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.imgui
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.imgui
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -2750,7 +3112,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.jsonserialize
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.jsonserialize
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -2838,7 +3200,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.particlesystem
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.particlesystem
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -2926,7 +3288,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.physics
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.physics
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -3014,7 +3376,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.physics2d
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.physics2d
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -3102,7 +3464,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.screencapture
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.screencapture
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -3194,7 +3556,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.terrain
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.terrain
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -3282,7 +3644,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.terrainphysics
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.terrainphysics
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -3378,7 +3740,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.tilemap
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.tilemap
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -3469,7 +3831,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.ui
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.ui
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -3557,7 +3919,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.uielements
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.uielements
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -3665,7 +4027,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.umbra
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.umbra
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -3753,7 +4115,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.unityanalytics
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.unityanalytics
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -3848,7 +4210,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.unitywebrequest
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.unitywebrequest
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -3936,7 +4298,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -4032,7 +4394,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.unitywebrequestaudio
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.unitywebrequestaudio
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -4128,7 +4490,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.unitywebrequesttexture
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.unitywebrequesttexture
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -4224,7 +4586,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.unitywebrequestwww
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.unitywebrequestwww
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -4336,7 +4698,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.vectorgraphics
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.vectorgraphics
   assetPath: Packages/com.unity.modules.vectorgraphics
   name: com.unity.modules.vectorgraphics
   displayName: Vector Graphics
@@ -4443,7 +4805,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.vehicles
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.vehicles
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -4535,7 +4897,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.video
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.video
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -4635,7 +4997,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.vr
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.vr
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -4738,7 +5100,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.wind
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.wind
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -4826,7 +5188,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.xr
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.xr
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -4926,7 +5288,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.subsystems
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.subsystems
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -5018,7 +5380,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.hierarchycore
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.modules.hierarchycore
   assetPath: Packages/com.unity.modules.hierarchycore
   name: com.unity.modules.hierarchycore
   displayName: Hierarchy Core
@@ -5106,7 +5468,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.5
   source: 2
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.ext.nunit@d8c07649098d
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.ext.nunit@d8c07649098d
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -5197,7 +5559,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.16.0
   source: 1
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.services.core@8ba50f624741
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.services.core@8ba50f624741
   assetPath: Packages/com.unity.services.core
   name: com.unity.services.core
   displayName: Services Core
@@ -5334,12 +5696,148 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
+- packageId: com.unity.splines@2.8.2
+  testable: 0
+  isDirectDependency: 0
+  version: 2.8.2
+  source: 1
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.splines@1cb7d86fc7ff
+  assetPath: Packages/com.unity.splines
+  name: com.unity.splines
+  displayName: Splines
+  author:
+    name: 
+    email: 
+    url: 
+  category: Tool
+  type: 
+  description: Work with curves and paths. Use the Splines package to generate objects
+    and behaviors along paths, create trajectories, and draw shapes.
+  errors: []
+  versions:
+    all:
+    - 0.1.0-preview.1
+    - 1.0.0-pre.5
+    - 1.0.0-pre.7
+    - 1.0.0-pre.8
+    - 1.0.0-pre.9
+    - 1.0.0
+    - 1.0.1
+    - 2.0.0-pre.2
+    - 2.0.0-pre.4
+    - 2.0.0
+    - 2.1.0
+    - 2.2.0
+    - 2.2.1
+    - 2.3.0
+    - 2.4.0
+    - 2.5.1
+    - 2.5.2
+    - 2.6.0
+    - 2.6.1
+    - 2.7.1
+    - 2.7.2
+    - 2.8.0
+    - 2.8.1
+    - 2.8.2
+    - 2.8.3
+    - 2.8.4
+    compatible:
+    - 2.8.2
+    - 2.8.3
+    - 2.8.4
+    recommended: 2.8.4
+    deprecated: []
+  dependencies:
+  - name: com.unity.mathematics
+    version: 1.2.1
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.settings-manager
+    version: 1.0.3
+  resolvedDependencies:
+  - name: com.unity.mathematics
+    version: 1.3.3
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.settings-manager
+    version: 2.1.1
+  keywords:
+  - spline
+  - curve
+  - path
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638935739205640000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.splines@2.8/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.splines.git
+    revision: 43fe6df748a4819ca8492b7d90662923a31d488f
+    path: 
+  unityLifecycle:
+    version: 2.8.2
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 1
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Fixed\n\n- [DOCATT-4646], [DOCATT-5603], [DOCATT-7045],
+    [DOCATT-5044], [DOCATT-6376], [DOCATT-6626] Clarified API documentation following
+    user feedback.\n- [SPLB-360] Fixed a bug when selecting the clear component option,
+    resulting in out of range exception\n- [SPLB-361] Fixed a bug where the spline
+    would not animate with Scene/Domain reload disabled upon entering playmode\n-
+    [SPLB-356] Fixed a bug where a null reference exception would occur after baking
+    a SplineInstantiate component and then pressing Undo."}'
+  signature:
+    status: 1
+    reason: Signature is ok
+    attestation:
+      format: archive
+      publishingChannel: unity
+      entitlementKeys: []
+      ownerOrgName: 
+      ownerOrgId: 
+      publisherName: 
+    errorCode: 
+  assetStore:
+    productId: 
+  fingerprint: 1cb7d86fc7ffee63824ca302b2b8982178eeea83
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 2.8.2
+    minimumUnityVersion: 2022.3
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
 - packageId: com.unity.services.analytics@6.2.0
   testable: 0
   isDirectDependency: 0
   version: 6.2.0
   source: 1
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.services.analytics@b6335889ba61
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.services.analytics@b6335889ba61
   assetPath: Packages/com.unity.services.analytics
   name: com.unity.services.analytics
   displayName: Analytics
@@ -5492,7 +5990,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.2.2
   source: 1
-  resolvedPath: C:\Users\Karlis\Documents\Github repositeries\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.nuget.newtonsoft-json@4dfd81071c64
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.nuget.newtonsoft-json@4dfd81071c64
   assetPath: Packages/com.unity.nuget.newtonsoft-json
   name: com.unity.nuget.newtonsoft-json
   displayName: Newtonsoft Json
@@ -5600,4 +6098,214 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
-m_BuiltInPackagesHash: d5474ddbdbe4f96fccd8d9d441e8ba0e58a462e4
+- packageId: com.unity.mathematics@1.3.3
+  testable: 0
+  isDirectDependency: 0
+  version: 1.3.3
+  source: 1
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.mathematics@19a9377c4ffa
+  assetPath: Packages/com.unity.mathematics
+  name: com.unity.mathematics
+  displayName: Mathematics
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: Unity's C# SIMD math library providing vector types and math functions
+    with a shader like syntax.
+  errors: []
+  versions:
+    all:
+    - 0.0.12-preview.2
+    - 0.0.12-preview.5
+    - 0.0.12-preview.8
+    - 0.0.12-preview.10
+    - 0.0.12-preview.11
+    - 0.0.12-preview.13
+    - 0.0.12-preview.17
+    - 0.0.12-preview.19
+    - 0.0.12-preview.20
+    - 1.0.0-preview.1
+    - 1.0.1
+    - 1.1.0-preview.1
+    - 1.1.0
+    - 1.2.1
+    - 1.2.4
+    - 1.2.5
+    - 1.2.6
+    - 1.3.1
+    - 1.3.2
+    - 1.3.3
+    compatible:
+    - 1.3.3
+    recommended: 1.3.3
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - unity
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638950052122000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.mathematics@1.3/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/Unity.Mathematics.git
+    revision: 1695a8503482a3131be78cc26308a93f82c05b04
+    path: 
+  unityLifecycle:
+    version: 1.3.3
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 1
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Fixed\n* Fixed `math.hash` crash when using IL2CPP
+    builds on Arm 32 bit devices.\n* Fixed obsolete method usage warnings for `MatrixDrawer.CanCacheInspectorGUI`
+    and `PrimitiveVectorDrawer.CanCacheInspectorGUI` in UNITY_2023_2_OR_NEWER.\n*
+    Updated minimum editor version to 2021.3"}'
+  signature:
+    status: 1
+    reason: Signature is ok
+    attestation:
+      format: archive
+      publishingChannel: unity
+      entitlementKeys: []
+      ownerOrgName: 
+      ownerOrgId: 
+      publisherName: 
+    errorCode: 
+  assetStore:
+    productId: 
+  fingerprint: 19a9377c4ffa59370edad3e6a34e4445529badde
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 1.3.3
+    minimumUnityVersion: 2021.3
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
+- packageId: com.unity.settings-manager@2.1.1
+  testable: 0
+  isDirectDependency: 0
+  version: 2.1.1
+  source: 1
+  resolvedPath: C:\Users\laura\Projects\GitHub\ANimation-2d\2D-Animation-template\Library\PackageCache\com.unity.settings-manager@0b8638c5ce86
+  assetPath: Packages/com.unity.settings-manager
+  name: com.unity.settings-manager
+  displayName: Settings Manager
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: A framework for making any serializable field a setting, complete
+    with a pre-built settings interface.
+  errors: []
+  versions:
+    all:
+    - 0.1.0-preview.4
+    - 0.1.0-preview.8
+    - 1.0.0
+    - 1.0.1
+    - 1.0.2
+    - 1.0.3
+    - 2.0.0
+    - 2.0.1
+    - 2.1.0
+    - 2.1.1
+    compatible:
+    - 2.1.1
+    recommended: 2.1.1
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638956174685890000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.settings-manager@2.1/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.settings-manager.git
+    revision: 6eb5ed85eaf3276cc09f0cc4fc3311c72f0fc196
+    path: 
+  unityLifecycle:
+    version: 2.1.1
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 0
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Changes\n\n- Enable Auto Reference on main assembly.\n\n###
+    Bug Fixes\n\n- [case: PBLD-56] Added tooltip to \"Options\" gear icon to specify
+    that context menu items are relevant only to the selected category."}'
+  signature:
+    status: 1
+    reason: Signature is ok
+    attestation:
+      format: archive
+      publishingChannel: unity
+      entitlementKeys: []
+      ownerOrgName: 
+      ownerOrgId: 
+      publisherName: 
+    errorCode: 
+  assetStore:
+    productId: 
+  fingerprint: 0b8638c5ce86009d785da17b17aaf629047f64ce
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 2.1.1
+    minimumUnityVersion: 2022.3
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
+m_BuiltInPackagesHash: 2acc0f06c413670824c62d0528812b2df0ec3f30
