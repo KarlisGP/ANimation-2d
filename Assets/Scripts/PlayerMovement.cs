@@ -17,9 +17,12 @@ public class PlayerMovement : MonoBehaviour {
 
     public void OnLand()
     {
-        animator.SetBool("IsJumping", false);
-//particles animatio
-//soundsdfg dsfg
+        // Use the Rigidbody to check vertical velocity
+        // This prevents the jump animation from stopping while you're still moving UP
+        if (GetComponent<Rigidbody2D>().linearVelocity.y <= 0.1f)
+        {
+            animator.SetBool("IsJumping", false);
+        }
     }
 
 
